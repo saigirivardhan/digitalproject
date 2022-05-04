@@ -1,0 +1,299 @@
+body{
+    background-color: rgb(101, 15, 137);
+    background-size: cover;
+    overflow: hidden;
+}
+.item1{
+    color: white;
+}
+.item2{
+    position: relative;
+    top: 50px;
+    left: 55px;
+}
+.item3{
+    padding: 5px;
+    background-color: rgb(235, 229, 229);
+    border: 1px solid white;
+    width: 340px;
+    height: 70px;
+    border-radius: 10px;
+    color: rgb(162, 27, 220);
+    font-weight: bolder;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left: 550px;
+}
+.item4{
+    
+    width: 30px;
+    height: 50px;
+    position: relative;
+    top: 22px;
+    left: 25px;
+}
+.item5{
+    border: 2px solid white;
+    border: hidden;
+    border-radius: 5px;
+    color:rgb(162, 27, 220) ;
+    text-align: center;
+    background-color: rgb(211, 201, 211);
+    width: 48px;
+    height: 55px;
+    position: relative;
+    bottom: 40px;
+    left: 80px;
+}
+.sai1{
+   
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-36)/var(--unnamed-line-spacing-43) var(--unnamed-font-family-barlow);
+    position: relative;
+    top: 7px;
+    
+}
+.sai2{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 7px;
+    font-weight: none;
+}
+.item6{
+    font-size: 25px;
+   
+    color: rgb(89, 28, 89);
+    position: relative;
+    bottom: 90px;
+    left: 130px;
+}
+.item7{
+    border: 2px solid white;
+    border: hidden;
+    border-radius: 5px;
+    color:rgb(162, 27, 220) ;
+    text-align: center;
+    background-color: rgb(211, 201, 211);
+    width: 48px;
+    height: 55px;
+    position: relative;
+    bottom: 128.5px;
+    left: 140px;
+}
+.item8{
+    font-size: 25px;
+   
+    color: rgb(89, 28, 89);
+    position: relative;
+    bottom: 180px;
+    left: 190px;
+}
+.item9{
+    border: 2px solid white;
+    border: hidden;
+    border-radius: 5px;
+    color:rgb(162, 27, 220) ;
+    text-align: center;
+    background-color: rgb(211, 201, 211);
+    width: 48px;
+    height: 55px;
+    position: relative;
+    bottom: 217px;
+    left: 200px;
+}
+.item10{
+   
+    border: 2px solid white;
+    border: hidden;
+    border-radius: 5px;
+    color:rgb(198, 192, 200) ;
+    text-align: center;
+    background-color: rgb(207, 24, 207);
+    width: 45px;
+    height: 55px;
+    position: relative;
+    bottom: 272px;
+   
+    left: 260px;
+}
+.sai3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 15px;
+    font-size: 20px;
+}
+.item11{
+    padding: 20px;
+    background-color: white;
+    border: 3px solid red;
+    border: hidden;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    width: 420px;
+    position: relative;
+    top: 15px;
+    left: 50px;
+  
+}
+.giri1{
+    position: relative;
+    top: 7px;
+    color: rgb(101, 15, 137);
+}
+.giri2{
+    width: 250px;
+    height: 30px;
+    border: none;
+    color: rgb(101, 15, 137);   
+}
+.w2{
+    padding: 10px;
+    border: 3px solid red;
+    border: hidden;
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: white;
+    width: 400px;
+    height: 55px;
+    text-align: center;
+    vertical-align: center;
+    color: rgb(101, 15, 137);   
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-900) var(--unnamed-font-size-30)/40px var(--unnamed-font-family-bauhaus-hv-bt);
+     position: relative;
+     bottom: 210px;
+     left: 520px;
+     font: normal normal 900 20px/40px Bauhaus Hv BT;  
+}
+.w3{
+    position: relative;
+    top: 8px;
+}
+.w4{
+    position: relative;
+    bottom: 190px;
+    left: 520px;
+}
+.w5{
+    padding: 10px;
+    background-color: blueviolet;
+    border: 3px solid red;
+    border: hidden;
+    font-weight: bolder;
+    border-radius: 10px;
+    width: 440px;
+    height: 55px;
+    text-align: center;
+    vertical-align: center;
+    color: rgb(234, 229, 236);   
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-900) var(--unnamed-font-size-30)/40px var(--unnamed-font-family-bauhaus-hv-bt);
+     position: relative;
+     bottom: 308px;
+     left: 50px;
+     font: normal normal 900 20px/40px Bauhaus Hv BT;  
+}
+.w6{
+    padding: 5px;
+    background-color: blueviolet;
+    border: 3px solid red;
+    border: hidden;
+    font-weight: bolder;
+    border-radius: 8px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    background-image: linear-gradient(to right,rgb(188, 13, 188),rgb(222, 148, 222));
+    color: rgb(234, 229, 236);   
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-900) var(--unnamed-font-size-30)/40px var(--unnamed-font-family-bauhaus-hv-bt);
+     position: relative;
+     bottom: 290px;
+     left: 50px;
+     font: normal normal 900 20px/40px Bauhaus Hv BT;  
+}
+.w7{
+    position: relative;
+    bottom: 4px;
+}
+.w8{
+    padding: 5px;
+    border: 3px solid red;
+    border: hidden;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 10px;
+    background-color: white;
+    width: 230px;
+    height: 90px;
+    text-align: center;
+    vertical-align: center;
+    color: rgb(101, 15, 137);   
+    background-color: rgb(191, 143, 211);   
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-900) var(--unnamed-font-size-30)/40px var(--unnamed-font-family-bauhaus-hv-bt);
+     position: relative;
+     bottom: 329px;
+     left: 265px;
+    text-align: left;
+}
+@media  (max-width:700px){
+   .item2{
+     position: relative;
+     bottom: 650px;
+     left: 20px;
+   } 
+   .item3{
+       position: relative;
+       left: 20px;
+       top: 58px;
+   }
+   .item11{
+       width: 315px;
+       position: relative;
+       top: 80px;
+       left: 20px;
+       display: grid;
+       column-gap: none;
+       row-gap: 30px;
+   }
+   .giri2{
+       width: 100px;
+   }
+   .w5{
+       position: relative;
+       left: 20px;
+       
+       bottom: 245px;
+       width:345px ;
+       padding: 5px;
+       font-size: 30px;
+       height: 90px;
+   }
+   .w6{
+       width:345px ;
+       position: relative;
+       left: 20px;
+      bottom: 225px;
+   }
+   .w8{
+       width: 345px;
+       position: relative;
+       left: 20px;
+       bottom: 200px;
+       text-align: center;
+   }
+   .w4{
+       width: 325px;
+       position: relative;
+       left: 20px;
+       top: 460px;
+   }
+   .w2{
+    width: 345px;
+    position: relative;
+    left: 20px;
+    top:420px ;
+    height: 80px;
+    font-size: 28px;
+   }
+}
